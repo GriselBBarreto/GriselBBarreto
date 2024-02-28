@@ -1,5 +1,7 @@
 <h1 align="center">Hi, my name is Grisel Barreto</h1>
-<h3 align="center">I'm a Junior Data Analyst</h3>
+<h3 align="center">I'm Data Analyst and graduate in Industrial Organization</h3>
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/griselbbarreto](https://linktr.ee/griselbbarreto)
 
 - 📫 How to reach me **griselbbarreto@gmail.com**
 
